@@ -1,0 +1,13 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"img": "",
+			"views": 8,
+			"day": 2,
+			"price": "450 500 ₽",
+			"desc": "Сlavia Nord Grand сценическое цифровое пианино",
+			"status": "NEW"
+		}
+	]
+}
