@@ -2,12 +2,139 @@
 	"products": [
 		{
 			"id": 1,
-			"img": "",
-			"views": 8,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/1.jpg",
+			"views": 750,
 			"day": 2,
 			"price": "450 500 ₽",
 			"desc": "Сlavia Nord Grand сценическое цифровое пианино",
-			"status": "NEW"
+			"status": "PROMOTION",
+			"type": "INSTRUMENT"
+		},
+		{
+			"id": 2,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/2.jpg",
+			"views": 255,
+			"day": 4,
+			"price": "3 285 000 ₽",
+			"desc": "Hyundai Sonata 2.0 AT, 2023, 30 км",
+			"status": "NEW",
+			"type": "AUTO"
+		},
+		{
+			"id": 3,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/3.jpg",
+			"views": 255,
+			"day": 2,
+			"price": "4 800 000 ₽",
+			"desc": "2-к. квартира, 46 м², 1/5 эт.",
+			"status": "NEW",
+			"type": "REAL-ESTATE"
+		},
+		{
+			"id": 4,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/4.jpg",
+			"views": 255,
+			"day": 2,
+			"price": "7 500 ₽",
+			"desc": "Старые барабаны",
+			"status": "NEW",
+			"type": "INSTRUMENT"
+		},
+		{
+			"id": 5,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/5.jpg",
+			"views": 255,
+			"day": 2,
+			"price": "7 500 ₽",
+			"desc": "DMX сплиттер RJ45 to 4x XLR Stairville",
+			"status": "NEW",
+			"type": "INSTRUMENT"
+		},
+		{
+			"id": 6,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/6.jpg",
+			"views": 255,
+			"day": 2,
+			"price": "217 500 ₽",
+			"desc": "Мотоцикл honda",
+			"status": "NEW",
+			"type": "AUTO"
+		},
+		{
+			"id": 7,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/7.jpg",
+			"views": 255,
+			"day": 2,
+			"price": "17 900 ₽",
+			"desc": "Иж юпитер 5",
+			"status": "NEW",
+			"type": "AUTO"
+		},
+		{
+			"id": 8,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/8.jpg",
+			"views": 255,
+			"day": 2,
+			"price": "7 500 ₽",
+			"desc": "Пылесос кёрхер с водяным мешком для сбора пыли",
+			"status": "HIDDEN",
+			"type": "AUTO"
+		}
+	],
+	"agents": [
+		{
+			"id": 1,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/9.jpg",
+			"name": "Дмитрий Хитрый",
+			"status": "verified",
+			"rating": 4.3,
+			"comments": 19,
+			"desc": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться"
+		},
+		{
+			"id": 2,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/10.jpg",
+			"name": "Апполинарий Землеперекопский",
+			"status": "verified",
+			"rating": null,
+			"comments": null,
+			"desc": "Помог справиться с потерей и организовать похороны для 126 семей."
+		},
+		{
+			"id": 3,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/11.jpg",
+			"name": "Фёдор Сумкин",
+			"status": null,
+			"rating": 4.3,
+			"comments": 19,
+			"desc": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться"
+		},
+		{
+			"id": 4,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/12.jpg",
+			"name": "Василий Копушин",
+			"status": "verified",
+			"rating": 4.3,
+			"comments": 19,
+			"desc": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться"
+		},
+		{
+			"id": 5,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/13.jpg",
+			"name": "Феофан Кусакин",
+			"status": null,
+			"rating": 4.3,
+			"comments": 19,
+			"desc": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться"
+		},
+		{
+			"id": 6,
+			"img": "https://raw.githubusercontent.com/Vladoker/myserver/main/img/14.jpg",
+			"name": "Василиса Землеперекопская",
+			"status": "verified",
+			"rating": 4.3,
+			"comments": 19,
+			"desc": "Помог справиться с потерей и организовать похороны для 126 семей ну и еще чуть описания, чтобы дойти до конца строки и текст будет отсекаться"
 		}
 	]
 }
